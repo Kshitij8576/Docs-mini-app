@@ -1,5 +1,6 @@
 # Docs-mini-app
--> This is a mini docs app which is made with the help of react
+-> This is a mini docs app which is made with the help of react.
+
 -> The cards inside the docs can be drag and move all over the screen.
 
 # React + Vite
